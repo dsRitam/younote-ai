@@ -2,6 +2,8 @@
 
 YouNote AI is a Streamlit web application that enhances your YouTube video-watching experience by providing real-time chat and automated note-taking. Enter a YouTube video URL, watch the video, chat with an AI assistant about the content, and download concise Markdown notes with timestamped links for visuals.
 
+🔗 Visit the app: https://younote-ai.streamlit.app
+
 ## Features
 - **Video Streaming**: Embed and watch YouTube videos directly in the app.
 - **Real-Time Chat**: Ask questions about the video content and get conversational answers based on the transcript.
